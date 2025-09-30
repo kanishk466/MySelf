@@ -24,8 +24,8 @@ const experiences: Job[] = [
       'Implemented JWT-based authentication and role-based authorization using custom Express middleware.',
       ' Automated deployments with Docker and GitHub Actions, ensuring CI/CD best practices.',
       'Used Git for version control and collaborated with cross-functional teams.',
-      'Assisted with tasks in Node.js and Python when needed for backend integration.'
-      ' Contributed to system design, architecture reviews, and SDLC processes including code reviews and sprint planning'
+      'Assisted with tasks in Node.js and Python when needed for backend integration.',
+      'Contributed to system design, architecture reviews, and SDLC processes including code reviews and sprint planning'
     ],
     tech: ['React', 'TypeScript', 'Redux', 'GraphQL', 'Jest' , 'JWT' , 'Node.js' , 'Express'],
   },
