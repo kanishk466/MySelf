@@ -19,12 +19,13 @@ const experiences: Job[] = [
     period: 'Feb 2025 - Present',
     location: 'Noida, India',
     description: [
-      'Working on Remote Patient Monitoring System as a full-stack MERN developer',
-      'Developed and integrated RESTful APIs in React frontend using Axios.',
+      'Currently working on Giloy’s Remote Patient Monitoring (RPM) application, focusing on building a secure and scalable multi-tenant backend architecture.',
+      'Designed and implemented robust REST APIs in Node.js and optimized data flow with Redis.',
       'Implemented JWT-based authentication and role-based authorization using custom Express middleware.',
-      'Followed modular architecture and wrote reusable React components.',
+      ' Automated deployments with Docker and GitHub Actions, ensuring CI/CD best practices.',
       'Used Git for version control and collaborated with cross-functional teams.',
-      'Assisted with tasks in Java and Python when needed for backend integration.'
+      'Assisted with tasks in Node.js and Python when needed for backend integration.'
+      ' Contributed to system design, architecture reviews, and SDLC processes including code reviews and sprint planning'
     ],
     tech: ['React', 'TypeScript', 'Redux', 'GraphQL', 'Jest' , 'JWT' , 'Node.js' , 'Express'],
   },
