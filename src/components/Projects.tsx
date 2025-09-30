@@ -19,14 +19,11 @@ const projects: Project[] = [
 
     {
     id: 1,
-    title: 'Telemedicine Backend System',
-    description: 'Developed a secure Node.js backend for a telemedicine platform. Features include JWT authentication, role-based access (doctor/patient), medical record handling, appointment scheduling, and encrypted password storage using bcrypt..',
-    language: 'Node.js, Express.js, MongoDB, JWT, bcrypt, Mongoose, Cloudinary , Socket.io ',
+    title: 'AussieGrill Fast Food',
+    description: 'Developed and delivered the food delivery site for a client . This is my freelance project',
+    language: 'Figma , Html , Css , JavaScript , Sitefinity CMS , Bootstrap',
     languageColor: '#2b7489',
-    stars: 18,
-    forks: 4,
-    lastUpdated: '1 month ago',
-    repoUrl: 'https://github.com/johndoe/markdown-editor',
+    demoUrl: 'https://www.aussiegrill.com',
   },
     {
     id: 2,
