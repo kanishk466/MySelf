@@ -60,9 +60,23 @@ const projects: Project[] = [
     forks: 0,
     lastUpdated: '24/12/2023',
     demoUrl: 'https://algorithm-visualsier.netlify.app/',
-    repoUrl: '',
-  }
-
+  },
+      {
+    id: 4,
+    title: 'Fast Food Restaurant',
+    description: 'Developed and delivered the food delivery site for a client . This is my freelance project',
+    language: 'Figma , Html , Css , JavaScript , Sitefinity CMS , Bootstrap',
+    languageColor: '#2b7489',
+    demoUrl: 'https://kanishk466.github.io/website1-restaurant/index.html',
+  },
+ {
+    id: 5,
+    title: 'Lounge Cafe',
+    description: 'Developed and delivered the Lounge Cafe site for a client . This is my freelance project',
+    language: 'Figma , Html , Css , JavaScript , Sitefinity CMS , Bootstrap',
+    languageColor: '#2b7489',
+    demoUrl: 'https://kanishk466.github.io/website2-lounge',
+  },
 ];
 
 const Projects: React.FC = () => {
